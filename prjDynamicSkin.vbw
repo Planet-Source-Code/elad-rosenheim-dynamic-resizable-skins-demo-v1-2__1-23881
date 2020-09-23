@@ -1,0 +1,10 @@
+modEdges = 66, 43, 432, 386, Z
+frmPad = 49, 70, 483, 390, , 110, 110, 478, 430, C
+clsDockingHandler = 110, 110, 544, 430, C
+modAPI = 88, 88, 455, 408, C
+modRegion = 88, 65, 520, 408, 
+clsBitmap = 22, 22, 522, 229, C
+modPrefs = 88, 88, 522, 408, 
+modMain = 154, 154, 564, 474, 
+clsButton = 110, 110, 539, 456, C
+frmWrapper = 154, 154, 525, 474, C, 66, 66, 437, 386, C
